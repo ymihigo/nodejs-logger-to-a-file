@@ -1,0 +1,7 @@
+{"level":"info","message":"username has loged in at Mon Jan 16 2023 11:24:00 GMT+0200 (Central Africa Time)"}
+{"level":"info","message":"username has loged in at Mon Jan 16 2023 11:24:20 GMT+0200 (Central Africa Time)"}
+{"level":"info","message":"username has loged in at Mon Jan 16 2023 11:24:26 GMT+0200 (Central Africa Time)"}
+{"level":"info","message":"username has loged in at Mon Jan 16 2023 11:24:28 GMT+0200 (Central Africa Time)"}
+{"level":"info","message":"username has loged in at Mon Jan 16 2023 11:24:31 GMT+0200 (Central Africa Time)"}
+{"component":"user-service","level":"info","message":"username has loged in at Mon Jan 16 2023 11:37:26 GMT+0200 (Central Africa Time)","timestamp":"2023-01-16 11:37:26"}
+{"component":"user-service","level":"info","message":"username has loged in","timestamp":"2023-01-16 11:38:00"}
